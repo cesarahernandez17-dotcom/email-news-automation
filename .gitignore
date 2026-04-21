@@ -1,0 +1,16 @@
+# Archivos sensibles
+.env
+credentials.json
+
+# Logs
+*.log
+
+# Dependencias
+node_modules/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de n8n locales
+.n8n/
